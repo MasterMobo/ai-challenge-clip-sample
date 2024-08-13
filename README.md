@@ -2,7 +2,7 @@
 
 ## Prerequisite:
 
--   Download and unzip all files from [here](https://drive.google.com/drive/folders/1wzM8PtgxXgDDeQJtzGXmmEn1x43YDL9l)
+-   Download and unzip all data files.
 -   Put the files in a `data` folder at the root directory
 
 ## Installation
